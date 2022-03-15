@@ -1,3 +1,3 @@
-# 30-days-of-code
+# HackerRank Challenges
 
-Solutions for [HackerRank 30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+Solutions for [HackerRank Challenges](https://www.hackerrank.com/)
